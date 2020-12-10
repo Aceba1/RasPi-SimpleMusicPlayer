@@ -24,10 +24,9 @@
 #### Connect to Internet
 There are multiple ways to achieve this:
 - Activate Wi-Fi sharing through Ethernet
-  - For Windows, search `view network connections`, right-click **Wi-Fi**, click **Properties**, open **Sharing** tab.
-  <br>
-  Activate **Allow other network users...** and set **Home networking connection** to `Local Area Connection`.
-  ![windows-network-sharing-example](./README_images/windows_network_sharing.png)
+  - For Windows, search `view network connections`, right-click **Wi-Fi**, click **Properties**, open **Sharing** tab. <br>
+  Activate **Allow other network users...** and set **Home networking connection** to `Local Area Connection`. <br>
+  ![windows-network-sharing-example](https://github.com/Aceba1/RasPi-SimpleMusicPlayer/blob/main/README_images/windows_network_sharing.png?raw=true)
 - Connect Raspberry Pi to Wi-Fi
   - Within SSH, run **`sudo raspi-config`**
   - **System Options**, **Network Options**, **Wireless LAN**
