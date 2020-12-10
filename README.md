@@ -39,7 +39,7 @@ There are multiple ways to achieve this:
   - `python3-pip`: If not installed by OS, this will get the python package manager
   - `mpg321 `: This will play the music
 - **`sudo pip3 install mpyg321 pexpect numpy`**
-  - `mpyg321`: Wraps `mpg123` to control through python
+  - [`mpyg321`](https://github.com/4br3mm0rd/mpyg321): Wraps `mpg123` to control through python
   - `pexpect`: Used by `mpyg321`
   - `numpy`: Used for randomizer
 
